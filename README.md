@@ -89,8 +89,6 @@ I'm Dmytro, 22 y.o. an aspiring software engineer from Ivano-Frankivsk, Ukraine.
 
 <br/>
 
-<div  align="center">
-
 ### **How to reach me**
   <a href="mailto:nahtvandler@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-090909.svg?style=for-the-badge&logo=Gmail&logoColor=d54537" alt="Gmail">
