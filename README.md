@@ -9,22 +9,30 @@ I'm Dmytro, 22 y.o. an aspiring software engineer from Ivano-Frankivsk, Ukraine.
 <img align="right" src="https://github.com/san616mofo/san616mofo/blob/main/assets/code-man.gif?raw=true" width="500px" height="320px" alt="GIF"/>
 
 ### **I am …**
-- 🏠 Currently living in Lviv, Ukraine
-- 👨‍💻 Currently improving my JavaScript
-- 🤦‍♂ Currently learning English
+- 🏠 Currently:
+  - living in Lviv, Ukraine
+  - improving my JavaScript
+  - learning English
 - 📚 Longlife learner and daydreamer
 - 🐧 Linux fan
 - ☕️ Сoffeer
 - 🤓 Gadget and audiophile geek
+- ⚡️ A huge fan of «Death Note 🍎» and attraction on «SpaceX 🚀»
+- 🌙 A night 🦉
 - 👯 Looking to collaborate on any Front-end project which seems interesting or useful
 
 <br/>
 
-- ⚡️ A huge fan of «Death Note 🍎» and attraction on «SpaceX 🚀»
+- 🤔 Interest: Typescript, Flutter
 - 💬 Talk to me about: trending technology, films, serials, games, rock, food, memes, anything that interests you
 
+<br/>
+
+- ⚛️ Checkout my VSCode configrations [Here](https://gist.github.com/san616mofo/039b1dc5a7cdcb007ab3691814d53130).
+- 📝 Checkout my [Resume](https://github.com/san616mofo/san616mofo/blob/main/resume.pdf).
+
 ### **My skills include:**
-#### **Front-end**
+- #### **Front-end**
 <div  align="center">
 
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=HTML5&logoColor=dd4b25)
@@ -44,13 +52,13 @@ I'm Dmytro, 22 y.o. an aspiring software engineer from Ivano-Frankivsk, Ukraine.
 ![Flutter](https://img.shields.io/badge/-Flutter-090909?style=for-the-badge&logo=Flutter&logoColor=51bff0)
 </div>
 
-#### **Cloud Servers \ Databases**
+- #### **Cloud Servers \ Databases**
 <div  align="center">
 
 ![Firebase](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=Firebase&logoColor=f7c52b)
 </div>
 
-#### **Tools**
+- #### **Tools**
 <div  align="center">
 
 ![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-090909?style=for-the-badge&logo=Visual-Studio-Code&logoColor=23aaf2)
@@ -63,7 +71,7 @@ I'm Dmytro, 22 y.o. an aspiring software engineer from Ivano-Frankivsk, Ukraine.
 ![Todoist](https://img.shields.io/badge/-Todoist-090909?style=for-the-badge&logo=Todoist&logoColor=e44331)
 </div>
 
-#### **Others**
+- #### **Others**
 <div  align="center">
 
 ![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=Figma&logoColor=f24d18)
@@ -73,9 +81,17 @@ I'm Dmytro, 22 y.o. an aspiring software engineer from Ivano-Frankivsk, Ukraine.
 ![AdobeAfterEffects](https://img.shields.io/badge/-After%20Effects-090909?style=for-the-badge&logo=Adobe-After-Effects&logoColor=cd9fff)
 </div>
 
-### **How to reach me:**
+### **GitHub stats**
+<p align='center'>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=san616mofo&show_icons=true&count_private=true&theme=gotham" alt="Dmytro Hoisan's GitHub Stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=san616mofo&theme=gotham&layout=compact" alt="Most Used Languages"/>
+</p>
+
+<br/>
+
 <div  align="center">
 
+### **How to reach me**
   <a href="mailto:nahtvandler@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-090909.svg?style=for-the-badge&logo=Gmail&logoColor=d54537" alt="Gmail">
   </a>
@@ -99,11 +115,7 @@ I'm Dmytro, 22 y.o. an aspiring software engineer from Ivano-Frankivsk, Ukraine.
   </a>
 </div>
 
-### **My GitHub stats**
-<p align='center' style="display:flex; justify-content:space-around;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=san616mofo&show_icons=true&count_private=true&theme=algolia&line_height=27" alt="Dmytro Hoisan's GitHub Stats"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=san616mofo&theme=algolia" alt="Most Used Languages"/>
-</p>
+<br/>
 
 <div align="center">
 
