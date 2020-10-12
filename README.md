@@ -6,7 +6,7 @@
 ### **Whoammi**
 I'm Dmytro, 22 y.o. an aspiring software engineer from Ivano-Frankivsk, Ukraine. Ever since I was a kid, I dreamt of becoming a software developer – a person who can create everything with his own brain and hands through code, through every singe operator. I believed that by means of modern technologies even a single person could make a world a better place. Since that time, I had no doubts of the chosen way – the world of high technologies is my destiny and my life.
 
-<img align="right" src="https://github.com/san616mofo/san616mofo/blob/main/assets/code-man.gif?raw=true" width="500px" height="320px" alt="GIF"/>
+<img align="right" src="https://github.com/san616mofo/san616mofo/blob/main/assets/code-man.gif?raw=true" width="500px" height="320px" alt="code-man"/>
 
 ### **I am …**
 - 🏠 Currently:
