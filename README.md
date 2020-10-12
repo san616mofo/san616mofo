@@ -83,11 +83,11 @@ I'm Dmytro, 22 y.o. an aspiring software engineer from Ivano-Frankivsk, Ukraine.
 
 ### **GitHub stats**
 <div align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=san616mofo&show_icons=true&count_private=true&theme=gotham" alt="Dmytro Hoisan's GitHub Stats"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=san616mofo&theme=gotham&layout=compact" alt="Most Used Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=san616mofo&show_icons=true&count_private=true&theme=gotham" alt="Dmytro Hoisan's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=san616mofo&theme=gotham&layout=compact" alt="Most Used Languages"/>
 </div>
 
-<br/>
+<div  align="center">
 
 ### **How to reach me**
   <a href="mailto:nahtvandler@gmail.com" target="_blank">
