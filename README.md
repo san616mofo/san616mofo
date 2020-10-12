@@ -1,6 +1,6 @@
-### Hello World <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hello World <img src="https://github.com/san616mofo/san616mofo/blob/main/assets/waving-hand.gif?raw=true" width="25px">
 
-### Whoammi
+#### Whoammi
 
 I’m Dmytro, 22 y.o. an aspiring software engineer from Ivano-Frankivsk, Ukraine. Ever since I was a kid, I dreamt of becoming a software developer – a person who can create everything with his own brain and hands through code, through every singe operator. I believed that by means of modern technologies even a single person could make a world a better place. Since that time, I had no doubts of the chosen way – the world of high technologies is my destiny and my life.
 
