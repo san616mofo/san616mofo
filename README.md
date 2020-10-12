@@ -1,28 +1,26 @@
-<p align="center">
-  <img src="https://github.com/san616mofo/san616mofo/blob/main/assets/san616mofo_logo.gif?raw=true" alt="san616mofo custom image"/>
-</p>
-
 ### Hello World <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ### Whoammi
 
 I’m Dmytro, 22 y.o. an aspiring software engineer from Ivano-Frankivsk, Ukraine. Ever since I was a kid, I dreamt of becoming a software developer – a person who can create everything with his own brain and hands through code, through every singe operator. I believed that by means of modern technologies even a single person could make a world a better place. Since that time, I had no doubts of the chosen way – the world of high technologies is my destiny and my life.
 
-### I am …
+<img align="right" src="https://github.com/san616mofo/san616mofo/blob/main/assets/code-man.gif?raw=true" width="500" height="320" alt="GIF"/>
 
-🏠 Currently living in Lviv, Ukraine
-👨‍💻 Currently improving my JavaScript
-🤦‍♂ Currently learning English
-📚 Longlife learner and daydreamer
-🐧 Linux fan
-☕️ Сoffeer
-🤓 Gadget and audiophile geek
-👯 Looking to collaborate on any Front-end project which seems interesting or useful
+**I am …**
 
-⚡️ Fun fact: I'm a huge fan of «Death Note 🍎» and attraction on «SpaceX 🚀»
-💬 Talk to me about: trending technology, films, serials, games, rock, food, memes, anything that interests you
+- 🏠 Currently living in Lviv, Ukraine
+- 👨‍💻 Currently improving my JavaScript
+- 🤦‍♂ Currently learning English
+- 📚 Longlife learner and daydreamer
+- 🐧 Linux fan
+- ☕️ Сoffeer
+- 🤓 Gadget and audiophile geek
+- 👯 Looking to collaborate on any Front-end project which seems interesting or useful
+- ⚡️ A huge fan of «Death Note 🍎» and attraction on «SpaceX 🚀»
 
-### My skills include
+- 💬 Talk to me about: trending technology, films, serials, games, rock, food, memes, anything that interests you
+
+**My skills include**
 
 Front-end
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=HTML5&logoColor=dd4b25)
@@ -60,6 +58,12 @@ Others
 
 ### How to reach me:
 
+<div  align="center">
+  <a href="https://www.fiverr.com/oussama700" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-090909.svg?&style=for-the-badge&logo=Gmail&logoColor=d54537" alt="Gmail">
+  </a>
+</div>
+
 [![Gmail](https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=Gmail&logoColor=d54537)](mailto:nahtvandler@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=LinkedIn&logoColor=0077b0)](https://www.linkedin.com/in/dmytro-hoisan-037478190)
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=30a4da)](https://t.me/sebitti)
@@ -68,13 +72,14 @@ Others
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=Instagram&logoColor=d21a47)](https://www.instagram.com/dmtr.san)
 [![Discord](https://img.shields.io/badge/-Discord-090909?style=for-the-badge&logo=Discord&logoColor=7289da)](https://discordapp.com/users/429788828425781248)
 
-## ⚡️ My GitHub stats
+<h3>My GitHub stats<h3>
+
 <p align='center' style="display:flex; justify-content:space-around;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=san616mofo&bg_color=071A2C&icon_color=4194FD&show_icons=true&count_private=true&theme=tokyonight&line_height=27&text_color=FFFFFF" alt="Dmytro Hoisan's GitHub Stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=san616mofo&show_icons=true&count_private=true&theme=algolia&line_height=27" alt="Dmytro Hoisan's GitHub Stats"/>
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=san616mofo&bg_color=071A2C&text_color=FFFFFF" alt="Most Used Languages"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=san616mofo&theme=algolia" alt="Most Used Languages"/>
 </p>
-
+<p align="center">
 A problem can be solved in a 100 different ways and There's always an easier way to solve a problem.
 You miss 100% of the shots you don't take.
 
