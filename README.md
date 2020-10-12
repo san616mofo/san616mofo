@@ -1,12 +1,12 @@
-### Hello World <img src="https://github.com/san616mofo/san616mofo/blob/main/assets/waving-hand.gif?raw=true" width="25px">
+<div style="font-family:cursive;">
+<h2 style="text-align:center;">Hello World <img style="width:25px" src="https://github.com/san616mofo/san616mofo/blob/main/assets/waving-hand.gif?raw=true"></h2>
 
-#### Whoammi
+<h3>Whoammi</h3>
+<p>I’m Dmytro, 22 y.o. an aspiring software engineer from Ivano-Frankivsk, Ukraine. Ever since I was a kid, I dreamt of becoming a software developer – a person who can create everything with his own brain and hands through code, through every singe operator. I believed that by means of modern technologies even a single person could make a world a better place. Since that time, I had no doubts of the chosen way – the world of high technologies is my destiny and my life.</p>
 
-I’m Dmytro, 22 y.o. an aspiring software engineer from Ivano-Frankivsk, Ukraine. Ever since I was a kid, I dreamt of becoming a software developer – a person who can create everything with his own brain and hands through code, through every singe operator. I believed that by means of modern technologies even a single person could make a world a better place. Since that time, I had no doubts of the chosen way – the world of high technologies is my destiny and my life.
+<img align="right" src="https://github.com/san616mofo/san616mofo/blob/main/assets/code-man.gif?raw=true" width="500px" height="320px" alt="code-man"/>
 
-<img align="right" src="https://github.com/san616mofo/san616mofo/blob/main/assets/code-man.gif?raw=true" width="500" height="320" alt="GIF"/>
-
-**I am …**
+<h3>I am …</h3>
 
 - 🏠 Currently living in Lviv, Ukraine
 - 👨‍💻 Currently improving my JavaScript
@@ -84,3 +84,4 @@ A problem can be solved in a 100 different ways and There's always an easier way
 You miss 100% of the shots you don't take.
 
 Stay awesome!
+</div>
