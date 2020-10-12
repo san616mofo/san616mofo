@@ -23,7 +23,7 @@ I'm Dmytro, 22 y.o. an aspiring software engineer from Ivano-Frankivsk, Ukraine.
 
 <br/>
 
-- 🤔 Interest: Typescript, Flutter
+- 🤔 Interest: TypeScript, Flutter
 - 💬 Talk to me about: trending technology, films, serials, games, rock, food, memes, anything that interests you
 
 <br/>
@@ -82,10 +82,10 @@ I'm Dmytro, 22 y.o. an aspiring software engineer from Ivano-Frankivsk, Ukraine.
 </div>
 
 ### **GitHub stats**
-<p align='center'>
+<div align='center'>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=san616mofo&show_icons=true&count_private=true&theme=gotham" alt="Dmytro Hoisan's GitHub Stats"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=san616mofo&theme=gotham&layout=compact" alt="Most Used Languages"/>
-</p>
+</div>
 
 <br/>
 
