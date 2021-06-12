@@ -4,7 +4,7 @@
 </div>
 
 ### **Whoammi**
-I'm Dmytro, 22 y.o. an aspiring software engineer from Ivano-Frankivsk, Ukraine. Ever since I was a kid, I dreamt of becoming a software developer – a person who can create everything with his own brain and hands through code, through every singe operator. I believed that by means of modern technologies even a single person could make a world a better place. Since that time, I had no doubts of the chosen way – the world of high technologies is my destiny and my life.
+I'm Dmytro, 23 y.o. an aspiring software engineer from Ivano-Frankivsk, Ukraine. Ever since I was a kid, I dreamt of becoming a software developer – a person who can create everything with his own brain and hands through code, through every singe operator. I believed that by means of modern technologies even a single person could make a world a better place. Since that time, I had no doubts of the chosen way – the world of high technologies is my destiny and my life.
 
 <img align="right" src="https://github.com/san616mofo/san616mofo/blob/main/assets/code-man.gif?raw=true" width="500px" height="320px" alt="code-man"/>
 
@@ -90,26 +90,20 @@ I'm Dmytro, 22 y.o. an aspiring software engineer from Ivano-Frankivsk, Ukraine.
 <div  align="center">
 
 ### **How to reach me**
-  <a href="mailto:nahtvandler@gmail.com" target="_blank">
+  <a href="mailto:dmytro.hoisan@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-090909.svg?style=for-the-badge&logo=Gmail&logoColor=d54537" alt="Gmail">
   </a>
-  <a href="https://www.linkedin.com/in/dmytro-hoisan-037478190" target="_blank">
+  <a href="https://www.linkedin.com/in/san616mofo/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-090909.svg?style=for-the-badge&logo=LinkedIn&logoColor=0077b0" alt="LinkedIn">
   </a>
-  <a href="https://t.me/sebitti" target="_blank">
+  <a href="https://t.me/san616mofo" target="_blank">
     <img src="https://img.shields.io/badge/-Telegram-090909.svg?style=for-the-badge&logo=Telegram&logoColor=30a4da" alt="Telegram">
   </a>
-  <a href="https://twitter.com/sebitti" target="_blank">
+  <a href="https://twitter.com/san616mofo" target="_blank">
     <img src="https://img.shields.io/badge/-Twitter-090909.svg?style=for-the-badge&logo=Twitter&logoColor=3fa6da" alt="Twitter">
   </a>
-  <a href="https://www.facebook.com/dh1010011010" target="_blank">
-    <img src="https://img.shields.io/badge/-Facebook-090909.svg?style=for-the-badge&logo=Facebook&logoColor=4064ac" alt="Facebook">
-  </a>
-  <a href="https://www.instagram.com/dmtr.san" target="_blank">
+  <a href="https://www.instagram.com/san616mofo" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-090909.svg?style=for-the-badge&logo=Instagram&logoColor=d21a47" alt="Instagram">
-  </a>
-  <a href="https://discordapp.com/users/429788828425781248" target="_blank">
-    <img src="https://img.shields.io/badge/-Discord-090909.svg?style=for-the-badge&logo=Discord&logoColor=7289da" alt="Discord">
   </a>
 </div>
 
