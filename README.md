@@ -23,7 +23,7 @@ I'm Dmytro, 23 y.o. an aspiring software engineer from Ivano-Frankivsk, Ukraine.
 
 <br/>
 
-- 🤔 Interest: TypeScript, Flutter, UX/UI Design
+- 🤔 Interests: TypeScript, Flutter, UX/UI Design
 - 💬 Talk to me about: fashion technology, movies, tv shows, games, rock music, food, memes, anything that interests you
 
 <br/>
