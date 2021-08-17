@@ -10,8 +10,8 @@ I'm Dmytro, 23 y.o. an aspiring software engineer from Ivano-Frankivsk, Ukraine.
 
 ### **I am …**
 - 🏠 Currently:
-  - living in Lviv, Ukraine
-  - improving my JavaScript
+  - living in Ivano-Frankivsk, Ukraine
+  - improving my JavaScript & Flutter
   - learning English
 - 📚 Longlife learner and daydreamer
 - 🐧 Linux fan
@@ -19,7 +19,7 @@ I'm Dmytro, 23 y.o. an aspiring software engineer from Ivano-Frankivsk, Ukraine.
 - 🤓 Gadget and audiophile geek
 - ⚡️ A huge fan of «Death Note 🍎» and attraction on «SpaceX 🚀»
 - 🌙 A night 🦉
-- 👯 Looking to collaborate on any Front-end project which seems interesting or useful
+- 👯 Looking to collaborate on any project which seems interesting or useful
 
 <br/>
 
@@ -29,56 +29,37 @@ I'm Dmytro, 23 y.o. an aspiring software engineer from Ivano-Frankivsk, Ukraine.
 <br/>
 
 - ⚛️ Checkout my VSCode configrations [Here](https://gist.github.com/san616mofo/039b1dc5a7cdcb007ab3691814d53130).
-- 📝 Checkout my [Resume](https://github.com/san616mofo/san616mofo/blob/main/resume.pdf).
+- 📝 Checkout my [Resume](https://drive.google.com/file/d/1O3R9gPRHxbBerCzr1oglrWEwyqBK-n0-/view?usp=sharing).
 
 ### **My skills include:**
-- #### **Front-end**
 <div  align="center">
-
-![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=HTML5&logoColor=dd4b25)
-![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=CSS3&logoColor=254bdd)
-![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git&logoColor=e94e31)
-![NPM](https://img.shields.io/badge/-NPM-090909?style=for-the-badge&logo=NPM&logoColor=c53635)
-![Yarn](https://img.shields.io/badge/-Yarn-090909?style=for-the-badge&logo=Yarn&logoColor=2b8ab5)
-![TailwindCSS](https://img.shields.io/badge/-Tailwind%20CSS-090909?style=for-the-badge&logo=Tailwind-CSS&logoColor=4aacae)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-090909?style=for-the-badge&logo=Bootstrap&logoColor=8210f5)
-![MaterialUI](https://img.shields.io/badge/-Material%E2%80%90UI-090909?style=for-the-badge&logo=Material-UI&logoColor=00abf7)
-![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=efd81d)
-![Babel](https://img.shields.io/badge/-Babel-090909?style=for-the-badge&logo=Babel&logoColor=f1d53c)
-![ESLint](https://img.shields.io/badge/-ESLint-090909?style=for-the-badge&logo=ESLint&logoColor=4930bd)
-![Webpack](https://img.shields.io/badge/-Webpack-090909?style=for-the-badge&logo=Webpack&logoColor=8acef2)
-![Vue.js](https://img.shields.io/badge/-Vue%2Ejs-090909?style=for-the-badge&logo=Vue%2Ejs&logoColor=3fb27f)
-![React.js](https://img.shields.io/badge/-React%2Ejs-090909?style=for-the-badge&logo=React&logoColor=61dafb)
-![Flutter](https://img.shields.io/badge/-Flutter-090909?style=for-the-badge&logo=Flutter&logoColor=51bff0)
+  
+![Dart](https://img.shields.io/badge/-Dart-090909?style=for-the-badge&logo=Dart&logoColor=42A5F5)
+![Flutter](https://img.shields.io/badge/-Flutter-090909?style=for-the-badge&logo=Flutter&logoColor=41D0FD)
+![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git&logoColor=F05133)
+![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=HTML5&logoColor=EA4F21)
+![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=CSS3&logoColor=2997D4)
+![SASS](https://img.shields.io/badge/-SASS-090909?style=for-the-badge&logo=SASS&logoColor=F06292)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind%20CSS-090909?style=for-the-badge&logo=Tailwind-CSS&logoColor=16BECB)
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=F7DF1D)
+![Vue.js](https://img.shields.io/badge/-Vue%2Ejs-090909?style=for-the-badge&logo=Vue%2Ejs&logoColor=41B883)
+![React.js](https://img.shields.io/badge/-React%2Ejs-090909?style=for-the-badge&logo=React&logoColor=00D8FF)
+![Firebase](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=Firebase&logoColor=FFC400)
+![Unity](https://img.shields.io/badge/-Unity-090909?style=for-the-badge&logo=Unity&logoColor=FFFFFF)
+![AzureDevOps](https://img.shields.io/badge/-Azure%20DevOps-090909?style=for-the-badge&logo=Azure-DevOps&logoColor=0078D4)
 </div>
 
-- #### **Cloud Servers \ Databases**
+### **My tools:**
 <div  align="center">
 
-![Firebase](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=Firebase&logoColor=f7c52b)
-</div>
-
-- #### **Tools**
-<div  align="center">
-
-![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-090909?style=for-the-badge&logo=Visual-Studio-Code&logoColor=23aaf2)
-![WebStorm](https://img.shields.io/badge/-WebStorm-090909?style=for-the-badge&logo=WebStorm&logoColor=00ced8)
-![Alacritty](https://img.shields.io/badge/-Alacritty-090909?style=for-the-badge&logo=GNU-Bash&logoColor=f76e00)
-![GitKraken](https://img.shields.io/badge/-GitKraken-090909?style=for-the-badge&logo=GitKraken&logoColor=149085)
-![Prepros](https://img.shields.io/badge/-Prepros-090909?style=for-the-badge&logo=Wolfram&logoColor=24cbe4)
-![Insomnia](https://img.shields.io/badge/-Insomnia-090909?style=for-the-badge&logo=Insomnia&logoColor=6a59c7)
-![Firefox](https://img.shields.io/badge/-Firefox-090909?style=for-the-badge&logo=Firefox-Browser&logoColor=d85e25)
-![Todoist](https://img.shields.io/badge/-Todoist-090909?style=for-the-badge&logo=Todoist&logoColor=e44331)
-</div>
-
-- #### **Others**
-<div  align="center">
-
-![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=Figma&logoColor=f24d18)
-![Zeplin](https://img.shields.io/badge/-Zeplin-090909?style=for-the-badge&logo=Azure-Pipelines&logoColor=fdbd39)
-![AdobePhotoshop](https://img.shields.io/badge/-Photoshop-090909?style=for-the-badge&logo=Adobe-Photoshop&logoColor=31a8ff)
-![AdobePremierePro](https://img.shields.io/badge/-Premiere%20Pro-090909?style=for-the-badge&logo=Adobe-Premiere-Pro&logoColor=e575ff)
-![AdobeAfterEffects](https://img.shields.io/badge/-After%20Effects-090909?style=for-the-badge&logo=Adobe-After-Effects&logoColor=cd9fff)
+![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-090909?style=for-the-badge&logo=Visual-Studio-Code&logoColor=0086D1)
+![WebStorm](https://img.shields.io/badge/-WebStorm-090909?style=for-the-badge&logo=WebStorm&logoColor=057C9E)
+![AndroidStudio](https://img.shields.io/badge/-Android%20Studio-090909?style=for-the-badge&logo=Android-Studio&logoColor=3DDC84)
+![SublimeMerge](https://img.shields.io/badge/-Sublime%20Merge-090909?style=for-the-badge&logo=Git&logoColor=00E6E7)
+![Insomnia](https://img.shields.io/badge/-Insomnia-090909?style=for-the-badge&logo=Insomnia&logoColor=5849BE)
+![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=Figma&logoColor=F24E1E)
+![Zeplin](https://img.shields.io/badge/-Zeplin-090909?style=for-the-badge&logo=Azure-Pipelines&logoColor=FCBC37)
+![AffinityPhoto](https://img.shields.io/badge/-Affinity%20Photo-090909?style=for-the-badge&logo=Affinity-Photo&logoColor=EC78FF)
 </div>
 
 ### **GitHub stats**
@@ -90,20 +71,20 @@ I'm Dmytro, 23 y.o. an aspiring software engineer from Ivano-Frankivsk, Ukraine.
 <div  align="center">
 
 ### **How to reach me**
-  <a href="mailto:dmytro.hoisan@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-090909.svg?style=for-the-badge&logo=Gmail&logoColor=d54537" alt="Gmail">
+  <a href="mailto:dmtr.vslvch.hsn@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-090909.svg?style=for-the-badge&logo=Gmail&logoColor=F14336" alt="Gmail">
   </a>
   <a href="https://www.linkedin.com/in/san616mofo/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-090909.svg?style=for-the-badge&logo=LinkedIn&logoColor=0077b0" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/-LinkedIn-090909.svg?style=for-the-badge&logo=LinkedIn&logoColor=0077B7" alt="LinkedIn">
   </a>
   <a href="https://t.me/san616mofo" target="_blank">
-    <img src="https://img.shields.io/badge/-Telegram-090909.svg?style=for-the-badge&logo=Telegram&logoColor=30a4da" alt="Telegram">
+    <img src="https://img.shields.io/badge/-Telegram-090909.svg?style=for-the-badge&logo=Telegram&logoColor=139BD0" alt="Telegram">
   </a>
   <a href="https://twitter.com/san616mofo" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-090909.svg?style=for-the-badge&logo=Twitter&logoColor=3fa6da" alt="Twitter">
+    <img src="https://img.shields.io/badge/-Twitter-090909.svg?style=for-the-badge&logo=Twitter&logoColor=55ACEE" alt="Twitter">
   </a>
   <a href="https://www.instagram.com/san616mofo" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-090909.svg?style=for-the-badge&logo=Instagram&logoColor=d21a47" alt="Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-090909.svg?style=for-the-badge&logo=Instagram&logoColor=E06A49" alt="Instagram">
   </a>
 </div>
 
