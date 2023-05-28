@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 
 # **Hello World <img src="https://github.com/san616mofo/san616mofo/blob/main/assets/waving-hand.gif?raw=true" width="25px">**
 </div>
@@ -100,3 +100,4 @@ You miss 100% of the shots you don't take.*
 
 **Stay awesome!**
 </div>
+ -->
